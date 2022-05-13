@@ -1,0 +1,6 @@
+- Crie um objeto contendo as seguintes propriedades
+- Nome
+- Idade
+- Utilize Json para deixar o objeto em String
+- Crie um objeto em forma de String
+- Utilize Json para deixar a String  em forma de objeto
